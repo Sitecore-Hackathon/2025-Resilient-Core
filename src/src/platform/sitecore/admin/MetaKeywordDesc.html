@@ -5,115 +5,30 @@
     <meta charset="utf-8" />
     <title></title>
     <script src="MetaKeywordDesc.js"></script>
-    <style>
-        .meta-details-container {
-            border: 1px solid transparent;
-            /* display: none; */
-            display: flex;
-            flex-direction: row;
-        }
-
-        .meta-details-item {
-            flex-direction: column;
-        }
-
-        .sorting {
-            display: none;
-        }
-
-        .template .sorting {
-            display: block;
-        }
-
-        .container {
-            max-width: 1000px;
-            margin: 20px auto;
-            font-family: Arial, sans-serif;
-        }
-
-        .meta-details-container {
-            display: flex;
-            border-bottom: 1px solid #ddd;
-            padding: 10px;
-            background-color: #fff;
-        }
-
-        .meta-details-container:nth-child(even) {
-            background-color: #f9f9f9;
-        }
-
-        .meta-details-item {
-            flex: 1;
-            padding: 8px 12px;
-            text-align: left;
-        }
-
-        .meta-details-item .heading {
-            font-weight: bold;
-            color: #333;
-        }
-
-        .meta-details-container.template {
-            display: none;
-        }
-
-        .meta-header {
-            display: flex;
-            font-weight: bold;
-            background-color: #e0e0e0;
-            padding: 12px;
-            border-bottom: 2px solid #ccc;
-        }
-
-        .meta-header .meta-details-item {
-            text-align: left;
-            font-size: 16px;
-            color: #000;
-        }
-
-        /* Style the Sort Button */
-        #sort-date-btn {
-            background: none;
-            border: none;
-            font-size: 14px;
-            cursor: pointer;
-            color: #007bff;
-        }
-
-        #sort-date-btn:hover {
-            text-decoration: underline;
-        }
-    </style>
+    <link rel="stylesheet" href="metaDataStyles.css" />
 </head>
 
 <body>
-    <div class="container">
-        <h2>Page Data from JSON</h2>
-        <div id="data-container">
-            <!-- This template will be cloned for each item -->
-            <div class="meta-details-container template">
-                <div class="meta-details-item">
-                    <div class="heading">Page Name</div>
-                    <div class="content page-name"></div>
-                </div>
-                <div class="meta-details-item">
-                    <div class="heading">Item Path</div>
-                    <div class="content item-path"></div>
-                </div>
-                <div class="meta-details-item">
-                    <div class="heading">Page Keywords</div>
-                    <div class="content keywords"></div>
-                </div>
-                <div class="meta-details-item">
-                    <div class="heading">Page Description</div>
-                    <div class="content description"></div>
-                </div>
-                <div class="meta-details-item">
-                    <div class="heading">Updated Time <button id="sort-date-btn" class="sorting">Sort ⬆⬇</button></div>
-                    <div class="content updated-time"></div>
-                </div>
+    <div class="meta-data-container" id="data-container">
+        <!-- This template will be cloned for each item -->
+
+        <div class="meta-details-headings">
+            <div class="heading">Page Name</div>
+            <div class="heading">Item Path</div>
+            <div class="heading">Page Keywords</div>
+            <div class="heading">Page Description</div>
+            <div class="heading">Updated Time <button id="sort-date-btn" class="sorting">Sort ⬆⬇</button></div>
+        </div>
+        <div class="meta-details-container">
+            <div class="meta-details-item template">
+                <div class="content page-name"></div>
+                <div class="content item-path"></div>
+                <div class="content keywords"></div>
+                <div class="content description"></div>
+                <div class="content updated-time"></div>
             </div>
         </div>
+    </div>
     </div>
 </body>
 
