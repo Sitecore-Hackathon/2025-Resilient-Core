@@ -1,5 +1,6 @@
 ﻿<!DOCTYPE html>
 <html>
+
 <head>
     <meta charset="utf-8" />
     <title></title>
@@ -8,34 +9,38 @@
         .meta-details-container {
             border: 1px solid black;
         }
-
     </style>
 </head>
+
 <body>
-    <div class="meta-details-container">
-        <div class="meta-details-item">
-            <div class="heading">Page Name</div>
-            <div class="content page-name">Page Name Sample</div>
+    <div class="container">
+        <h2>Page Data from JSON</h2>
+        <div id="data-container">
+            <!-- This template will be cloned for each item -->
+            <div class="meta-details-container template" style="display: none;">
+                <div class="meta-details-item">
+                    <div class="heading">Page Name</div>
+                    <div class="content page-name"></div>
+                </div>
+                <div class="meta-details-item">
+                    <div class="heading">Item Path</div>
+                    <div class="content item-path"></div>
+                </div>
+                <div class="meta-details-item">
+                    <div class="heading">Page Keywords</div>
+                    <div class="content keywords"></div>
+                </div>
+                <div class="meta-details-item">
+                    <div class="heading">Page Description</div>
+                    <div class="content description"></div>
+                </div>
+                <div class="meta-details-item">
+                    <div class="heading">Updated Time</div>
+                    <div class="content updated-time"></div>
+                </div>
+            </div>
         </div>
-        <div class="meta-details-item">
-            <div class="heading">Item Path</div>
-            <div class="content item-path">/home/folder/item</div>
-        </div>
-        <div class="meta-details-item">
-            <div class="heading">Page Keywords</div>
-            <div class="content page-keywords">keyword1, keyword2</div>
-        </div>
-        <div class="meta-details-item">
-            <div class="heading">Page Description</div>
-            <div class="content page-description">Sample Description.....</div>
-        </div>
-        <div class="meta-details-item">
-            <div class="heading">Updated time</div>
-            <div class="content updated-date-time">20250130T150733Z</div>
-        </div>
-    </div>
-    <div id="data-container">
-        <!-- Data will be inserted here -->
     </div>
 </body>
+
 </html>
