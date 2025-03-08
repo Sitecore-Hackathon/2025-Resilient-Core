@@ -10,12 +10,13 @@
             const results = jsonData.data.search.results;
             const container = document.getElementById("data-container");
             const template = document.querySelector(".meta-details-container.template"); // Get the template
+            //const sortButton = document.getElementById("sort-date-btn");
 
             results.forEach(result => {
                 // Clone the template
                 const newMetaContainer = template.cloneNode(true);
                 newMetaContainer.classList.remove("template"); // Remove template class
-                newMetaContainer.style.display = "block"; // Make it visible
+                //newMetaContainer.style.display = "block"; // Make it visible
 
                 // Populate data dynamically
                 newMetaContainer.querySelector(".page-name").textContent = result.PageName;
