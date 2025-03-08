@@ -1,22 +1,15 @@
 {
     "renderingHosts": {
-      "nextjsstarter": {
-        "path": "./headapps/nextjs-starter",
-        "nodeVersion": "22.11.0",
+      "xmcloudpreview": {
+        "path": "./src/sxastarter",
+        "nodeVersion": "20.10.0",
         "jssDeploymentSecret": "110F1C44A496B45478640DD36F80C18C9",
         "enabled": true,
         "type": "sxa",
+        "lintCommand": "lint",
+        "startCommand": "start:production",
         "buildCommand": "build",
         "runCommand": "next:start"
-      },
-      "angularstarter": {
-        "path": "./headapps/spa-starters",
-        "nodeVersion": "22.11.0",
-        "jssDeploymentSecret": "110F1C44A496B45478640DD36F80C18C9",
-        "enabled": false,
-        "type": "sxa",
-        "buildCommand": "install-build:angular",
-        "runCommand": "start:angular"
       }
     },
     "postActions": {
@@ -35,6 +28,5 @@
             "indexNames": []
           }
         }
-    },
-    "authoringPath": "./authoring"
+    }
 }
