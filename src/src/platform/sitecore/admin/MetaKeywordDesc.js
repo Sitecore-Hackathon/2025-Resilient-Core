@@ -48,6 +48,7 @@
         });
     }
 
+    // Date formatting
     function parseDateTime(dateTimeString) {
         if (!dateTimeString) return new Date(0);
 
