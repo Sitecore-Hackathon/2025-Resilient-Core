@@ -1,0 +1,364 @@
+{
+    "data": {
+        "search": {
+            "results": [
+                {
+                    "PageName": "aaaaaAAA",
+                    "ItemPath": "/sitecore/content/RRH/ElderONE/Home/aaaaaAAA",
+                    "PageKeywords": {
+                        "value": "PAGE keyword abc"
+                    },
+                    "PageDescription": {
+                        "value": ""
+                    },
+                    "UpdatedDateTime": {
+                        "value": "20241207T193450Z"
+                    }
+                },
+                {
+                    "PageName": "413_21101",
+                    "ItemPath": "/sitecore/content/RRH/ElderONE/Home/413_21101",
+                    "PageKeywords": {
+                        "value": "PAGE keyword abc"
+                    },
+                    "PageDescription": {
+                        "value": ""
+                    },
+                    "UpdatedDateTime": {
+                        "value": "20241021T083701Z"
+                    }
+                },
+                {
+                    "PageName": "Preventing Falls",
+                    "ItemPath": "/sitecore/content/RRH/ElderONE/Home/Resources/Preventing Falls",
+                    "PageKeywords": {
+                        "value": "PAGE keyword xyz"
+                    },
+                    "PageDescription": {
+                        "value": "Learn how ElderOne in Rochester, NY is helping families and caregivers to prevent their loved ones from falling. "
+                    },
+                    "UpdatedDateTime": {
+                        "value": "20241021T064555Z"
+                    }
+                },
+                {
+                    "PageName": "Resources",
+                    "ItemPath": "/sitecore/content/RRH/ElderONE/Home/Resources",
+                    "PageKeywords": {
+                        "value": "PAGE keyword xyz"
+                    },
+                    "PageDescription": {
+                        "value": "Your one-stop-shop for participant and provider ElderONE resources. "
+                    },
+                    "UpdatedDateTime": {
+                        "value": "20241021T064553Z"
+                    }
+                },
+                {
+                    "PageName": "Pace Centers",
+                    "ItemPath": "/sitecore/content/RRH/ElderONE/Home/Pace Centers",
+                    "PageKeywords": {
+                        "value": ""
+                    },
+                    "PageDescription": {
+                        "value": "Most of your care is provided in a non-institutional setting: either at our ElderONE PACE Centers or right at home. Your care team is located at the ElderONE PACE Center, so your visits will be determined based on your specific care plan. See our list of locations close to you."
+                    },
+                    "UpdatedDateTime": {
+                        "value": "20241021T064550Z"
+                    }
+                },
+                {
+                    "PageName": "Transportation",
+                    "ItemPath": "/sitecore/content/RRH/ElderONE/Home/Services/Transportation",
+                    "PageKeywords": {
+                        "value": ""
+                    },
+                    "PageDescription": {
+                        "value": ""
+                    },
+                    "UpdatedDateTime": {
+                        "value": "20241021T174630Z"
+                    }
+                },
+                {
+                    "PageName": "Social Work",
+                    "ItemPath": "/sitecore/content/RRH/ElderONE/Home/Services/Social Work",
+                    "PageKeywords": {
+                        "value": ""
+                    },
+                    "PageDescription": {
+                        "value": ""
+                    },
+                    "UpdatedDateTime": {
+                        "value": "20241021T174623Z"
+                    }
+                },
+                {
+                    "PageName": "Rehabilitation",
+                    "ItemPath": "/sitecore/content/RRH/ElderONE/Home/Services/Rehabilitation",
+                    "PageKeywords": {
+                        "value": ""
+                    },
+                    "PageDescription": {
+                        "value": ""
+                    },
+                    "UpdatedDateTime": {
+                        "value": "20241021T174617Z"
+                    }
+                },
+                {
+                    "PageName": "Medical Care",
+                    "ItemPath": "/sitecore/content/RRH/ElderONE/Home/Services/Medical Care",
+                    "PageKeywords": {
+                        "value": ""
+                    },
+                    "PageDescription": {
+                        "value": ""
+                    },
+                    "UpdatedDateTime": {
+                        "value": "20241021T174611Z"
+                    }
+                },
+                {
+                    "PageName": "Home Health",
+                    "ItemPath": "/sitecore/content/RRH/ElderONE/Home/Services/Home Health",
+                    "PageKeywords": {
+                        "value": ""
+                    },
+                    "PageDescription": {
+                        "value": ""
+                    },
+                    "UpdatedDateTime": {
+                        "value": "20241021T174606Z"
+                    }
+                },
+                {
+                    "PageName": "Day Center Care",
+                    "ItemPath": "/sitecore/content/RRH/ElderONE/Home/Services/Day Center Care",
+                    "PageKeywords": {
+                        "value": ""
+                    },
+                    "PageDescription": {
+                        "value": ""
+                    },
+                    "UpdatedDateTime": {
+                        "value": "20241021T174600Z"
+                    }
+                },
+                {
+                    "PageName": "Services",
+                    "ItemPath": "/sitecore/content/RRH/ElderONE/Home/Services",
+                    "PageKeywords": {
+                        "value": ""
+                    },
+                    "PageDescription": {
+                        "value": "Our ElderONE team works with seniors and their caregivers to arrange for and monitor all of their medical, social and daily living support services."
+                    },
+                    "UpdatedDateTime": {
+                        "value": "20241021T064542Z"
+                    }
+                },
+                {
+                    "PageName": "Care Team",
+                    "ItemPath": "/sitecore/content/RRH/ElderONE/Home/Care Team",
+                    "PageKeywords": {
+                        "value": ""
+                    },
+                    "PageDescription": {
+                        "value": "As members of the interdisciplinary teams, our geriatricians take an integrated approach to care that allows seniors to maintain their independence for as long as possible. ElderONE provides extraordinary opportunities for people who would otherwise require long-term nursing home care."
+                    },
+                    "UpdatedDateTime": {
+                        "value": "20241021T065208Z"
+                    }
+                },
+                {
+                    "PageName": "Disclaimer",
+                    "ItemPath": "/sitecore/content/RRH/ElderONE/Home/Disclaimer",
+                    "PageKeywords": {
+                        "value": ""
+                    },
+                    "PageDescription": {
+                        "value": "All services provided to ElderONE participants are provided by ElderONE, an affiliate of Rochester Regional Health. Participants may be liable for the costs of unauthorized or out-of-PACE program agreements."
+                    },
+                    "UpdatedDateTime": {
+                        "value": "20241021T064536Z"
+                    }
+                },
+                {
+                    "PageName": "Notice of Non Discrimination",
+                    "ItemPath": "/sitecore/content/RRH/ElderONE/Home/Notice of Non Discrimination",
+                    "PageKeywords": {
+                        "value": ""
+                    },
+                    "PageDescription": {
+                        "value": "ElderONE complies with applicable federal civil rights laws and does not discriminate on the basis of race, creed, color, national origin, sex (including gender identity or status of being transgender), sexual orientation, age or physical or mental disability (including gender dysphoria), developmental disability, type of illness or condition, or source of payment. "
+                    },
+                    "UpdatedDateTime": {
+                        "value": "20241021T064535Z"
+                    }
+                },
+                {
+                    "PageName": "Language Assistance",
+                    "ItemPath": "/sitecore/content/RRH/ElderONE/Home/Language Assistance",
+                    "PageKeywords": {
+                        "value": ""
+                    },
+                    "PageDescription": {
+                        "value": ""
+                    },
+                    "UpdatedDateTime": {
+                        "value": "20241021T064534Z"
+                    }
+                },
+                {
+                    "PageName": "Thank You",
+                    "ItemPath": "/sitecore/content/RRH/ElderONE/Home/Contact Us/Thank You",
+                    "PageKeywords": {
+                        "value": ""
+                    },
+                    "PageDescription": {
+                        "value": ""
+                    },
+                    "UpdatedDateTime": {
+                        "value": "20241021T064532Z"
+                    }
+                },
+                {
+                    "PageName": "Contact Us",
+                    "ItemPath": "/sitecore/content/RRH/ElderONE/Home/Contact Us",
+                    "PageKeywords": {
+                        "value": ""
+                    },
+                    "PageDescription": {
+                        "value": ""
+                    },
+                    "UpdatedDateTime": {
+                        "value": "20241021T064531Z"
+                    }
+                },
+                {
+                    "PageName": "Vaccines",
+                    "ItemPath": "/sitecore/content/RRH/ElderONE/Home/Vaccines",
+                    "PageKeywords": {
+                        "value": ""
+                    },
+                    "PageDescription": {
+                        "value": "Learn about the COVID-19 vaccines distribution for ElderOne."
+                    },
+                    "UpdatedDateTime": {
+                        "value": "20241021T064530Z"
+                    }
+                },
+                {
+                    "PageName": "Page Not Found",
+                    "ItemPath": "/sitecore/content/RRH/ElderONE/Home/Page Not Found",
+                    "PageKeywords": {
+                        "value": ""
+                    },
+                    "PageDescription": {
+                        "value": ""
+                    },
+                    "UpdatedDateTime": {
+                        "value": "20241021T064521Z"
+                    }
+                },
+                {
+                    "PageName": "About Us",
+                    "ItemPath": "/sitecore/content/RRH/ElderONE/Home/About Us",
+                    "PageKeywords": {
+                        "value": ""
+                    },
+                    "PageDescription": {
+                        "value": "Program of All-Inclusive Care the the Elderly (PACE) gives the elderly and their families an alternative to nursing home placement. ElderONE provides medical care and support services for seniors in their homes, the community and the ElderONE (PACE) Day Centers."
+                    },
+                    "UpdatedDateTime": {
+                        "value": "20241021T064941Z"
+                    }
+                },
+                {
+                    "PageName": "Site Search Results",
+                    "ItemPath": "/sitecore/content/RRH/ElderONE/Home/Component Library/Coveo/Site Search Results",
+                    "PageKeywords": {
+                        "value": ""
+                    },
+                    "PageDescription": {
+                        "value": ""
+                    },
+                    "UpdatedDateTime": {
+                        "value": "20241003T051412Z"
+                    }
+                },
+                {
+                    "PageName": "Coveo",
+                    "ItemPath": "/sitecore/content/RRH/ElderONE/Home/Component Library/Coveo",
+                    "PageKeywords": {
+                        "value": ""
+                    },
+                    "PageDescription": {
+                        "value": ""
+                    },
+                    "UpdatedDateTime": {
+                        "value": "20241003T051158Z"
+                    }
+                },
+                {
+                    "PageName": "Component Library",
+                    "ItemPath": "/sitecore/content/RRH/ElderONE/Home/Component Library",
+                    "PageKeywords": {
+                        "value": ""
+                    },
+                    "PageDescription": {
+                        "value": ""
+                    },
+                    "UpdatedDateTime": {
+                        "value": "20241003T051138Z"
+                    }
+                },
+                {
+                    "PageName": "Generic Page",
+                    "ItemPath": "/sitecore/content/RRH/ElderONE/Home/Generic Page",
+                    "PageKeywords": {
+                        "value": ""
+                    },
+                    "PageDescription": {
+                        "value": ""
+                    },
+                    "UpdatedDateTime": {
+                        "value": "20240925T104343Z"
+                    }
+                },
+                {
+                    "PageName": "404 Page",
+                    "ItemPath": "/sitecore/content/RRH/ElderONE/Home/404 Page",
+                    "PageKeywords": {
+                        "value": ""
+                    },
+                    "PageDescription": {
+                        "value": ""
+                    },
+                    "UpdatedDateTime": {
+                        "value": "20241207T192644Z"
+                    }
+                },
+                {
+                    "PageName": "Home",
+                    "ItemPath": "/sitecore/content/RRH/ElderONE/Home",
+                    "PageKeywords": {
+                        "value": ""
+                    },
+                    "PageDescription": {
+                        "value": ""
+                    },
+                    "UpdatedDateTime": {
+                        "value": "20250130T150733Z"
+                    }
+                }
+            ],
+            "pageInfo": {
+                "endCursor": "eyJzZWFyY2hBZnRlciI6WzE3MjM3MzgyMTkwMDAsIjE1QTBFRThGOTJBMDRGQUM5MjkzQUE4NEZFQzEyQ0Y2IiwiMTVBMEVFOEY5MkEwNEZBQzkyOTNBQTg0RkVDMTJDRjYiXSwiY291bnQiOjI3fQ==",
+                "hasNext": false
+            },
+            "total": 27
+        }
+    }
+}

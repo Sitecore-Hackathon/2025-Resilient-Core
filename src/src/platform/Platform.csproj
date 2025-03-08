@@ -68,10 +68,15 @@
     <None Include="Platform.wpp.targets" />
     <None Include="Properties\PublishProfiles\Local.pubxml" />
     <None Include="README.md" />
+    <Content Include="sitecore\admin\metaDataSample.json" />
     <None Include="web.config" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Config\Include\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="sitecore\admin\MetaKeywordDesc.html" />
+    <Content Include="sitecore\admin\MetaKeywordDesc.js" />
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
